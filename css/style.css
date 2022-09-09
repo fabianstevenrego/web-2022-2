@@ -1,6 +1,6 @@
 
 h1{
-    color: red;
+    color: rgb(135, 201, 21);
 }
 
 table, th, td{
@@ -11,4 +11,18 @@ border-collapse: collapse;
 p{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
+}
+.title-table{
+    font-size: 15px;
+    color:white;
+    text-align: center;
+    background-color: gray;
+}
+li{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.title{
+    font-size: 18px;
+    color: rgb(21, 153, 201);
 }
